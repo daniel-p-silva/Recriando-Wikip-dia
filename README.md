@@ -4,7 +4,7 @@ Este repositório contém o projeto desenvolvido como parte do **Desafio DIO - R
 
 ## Objetivo
 
-O objetivo do desafio foi replicar um layout de página da Wikipédia, utilizando HTML e CSS para criar uma página responsiva e bem estruturada. A página contém informações sobre a série **Suits**, incluindo dados sobre o elenco, sinopse, produção, e links externos relevantes.
+O objetivo do desafio foi replicar um layout de página da Wikipédia, utilizando HTML para criar uma página responsiva e bem estruturada. A página contém informações sobre a série **Suits**, incluindo dados sobre o elenco, sinopse, produção, e links externos relevantes.
 
 ## Tecnologias Utilizadas
 
